@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1619221028 source:c:\users\henrique alencar\onedrive\documentos\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1619219214 c:\users\henrique alencar\onedrive\documentos\arvorebinaria\arvore.h
+
+1619220561 source:c:\users\henrique alencar\onedrive\documentos\arvorebinaria\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore1.h"
+
+1619214441 source:c:\users\henrique alencar\onedrive\documentos\arvorebinaria\arvore1.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore1.h"
+
+1619212372 c:\users\henrique alencar\onedrive\documentos\arvorebinaria\arvore1.h
+
